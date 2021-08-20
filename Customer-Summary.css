@@ -1,0 +1,242 @@
+.u-section-1 {
+  background-image: none;
+  min-height: 872px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 408px;
+  background-image: none;
+  margin-top: 19px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-style: normal;
+  font-weight: 700;
+  margin: -338px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 1033px;
+  margin: 43px calc(((100% - 1140px) / 2) + 47px) 19px auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 22px));
+  min-height: 515px;
+  grid-gap: 33px;
+}
+
+.u-section-1 .u-list-item-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 23px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 19px auto 0 12px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 147px;
+  height: 147px;
+  background-image: url("images/HJ_CLASSIQUES_MERVEILLEUSE-DE-HJ_f9d35c2e75cded6d5435415681c0a1552.png");
+  background-position: 50% 50%;
+  margin: 77px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  width: 126px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(17, 17, 17) !important;
+  width: 20px;
+  height: 24px;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 23px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.25rem;
+  margin: 19px auto 0 12px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 147px;
+  height: 147px;
+  background-image: url("images/HJ_CLASSIQUES_JASMIN-DE-HJ_f9d35c2e75cded6d5435415681c0a155.png");
+  background-position: 50% 50%;
+  margin: 77px auto 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-text-7 {
+  width: 126px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-icon-4 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 23px;
+}
+
+.u-section-1 .u-text-8 {
+  font-size: 1.25rem;
+  margin: 19px auto 0 12px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 147px;
+  height: 147px;
+  background-image: url("images/HJ_CLASSIQUES_MYOSOTIS_f9d35c2e75cded6d5435415681c0a155.png");
+  background-position: 50% 50%;
+  margin: 77px auto 0;
+}
+
+.u-section-1 .u-text-9 {
+  font-weight: 700;
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-text-10 {
+  width: 126px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-icon-5 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-6 {
+  color: rgb(17, 17, 17) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 940px;
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 22px));
+    min-height: 469px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 720px;
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 16.5px));
+    min-height: 1078px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 1748px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 1828px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+    margin-left: auto;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
