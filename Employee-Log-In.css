@@ -35,7 +35,6 @@
 
 .u-section-1 .u-btn-1 {
   border-style: none;
-  width: 100%;
   padding: 10px 31px 10px 29px;
 }
 
@@ -73,6 +72,10 @@
 
   .u-section-1 .u-form-1 {
     width: 390px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 100%;
   }
 
   .u-section-1 .u-image-1 {
